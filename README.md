@@ -13,3 +13,6 @@ How to quick install my mods for BAC
 <img width="1082" height="330" alt="image" src="https://github.com/user-attachments/assets/934476a6-2aa5-4d40-8338-68a9039ad453" />
 
 5. select ok and wait for it to install
+
+
+if this doesnt work gg just dm me for help or something
